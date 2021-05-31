@@ -1,5 +1,6 @@
 # Horiseon Homepage
 Homework Assignment: Refactoring code for the Horiseon Homepage
+
 Author (of refactoring): Elbin Cenisev
 
 ===== Purpose of Assignment =====
