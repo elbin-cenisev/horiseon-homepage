@@ -22,3 +22,6 @@ The original HTML code, while functional, was chaotic and did not use many seman
 I have restructured the code, added semantic elements and generally divided the code into clear sections to make it more easily readible.
 The original CSS code was also somewhat bloated and unorganized. 
 My refactoring aimed at conslidating some of the selectors so that the page can load faster and make it easier to read. 
+
+## Screenshot
+![Image of Homepage](./assets/images/image-readme.PNG))
